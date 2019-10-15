@@ -1,6 +1,6 @@
 {
   "name": "ja-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy react lists",
   "main": "build/index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/Janberka/ja-lists"
   },
   "peerDependencies": {
-    "react": "^16.4.0"
+    "react": "^16.10.2"
   },
   "scripts": {
     "start": "webpack --watch",
